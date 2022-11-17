@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState); // built in contents
         setContentView(R.layout.activity_main); // customize
+        //왜 푸쉬 안됨 씨발아
     }
 }
